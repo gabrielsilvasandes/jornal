@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    text-align: left;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(228, 235, 237);
+}
+
+#one {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    font-family: serif;
+}
+
+img {
+    text-align: center;
+}
